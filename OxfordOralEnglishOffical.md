@@ -1,3 +1,17 @@
+Table of Contents
+=================
+
+   * [Agreeing](#agreeing)
+      * [Expressing agreement](#expressing-agreement)
+   * [Apologizing](#apologizing)
+      * [Apologizing](#apologizing-1)
+      * [Responding to apologies](#responding-to-apologies)
+   * [Asking about obligations](#asking-about-obligations)
+      * [Asking about obligation](#asking-about-obligation)
+   * [Asking for clarification](#asking-for-clarification)
+      * [Asking for clarification](#asking-for-clarification-1)
+      * [Providing clarification](#providing-clarification)
+
 > 原文链接：https://www.bilibili.com/video/BV1ns41187Zn
 
 # Agreeing
