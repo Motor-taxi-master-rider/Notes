@@ -1,7 +1,6 @@
 Table of Contents
 =================
 
-   * [Table of Contents](#table-of-contents)
    * [Agreeing](#agreeing)
       * [Expressing agreement](#expressing-agreement)
    * [Apologizing](#apologizing)
