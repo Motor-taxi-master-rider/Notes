@@ -68,7 +68,7 @@ A: Oh, I do apologize, I should have been looking where I was going. Are you all
 
 B: Yes, don't worry about it.
 
-A: But you split some coffee. Can I get you another one?
+A: But you spit some coffee. Can I get you another one?
 
 B: No. it's fine,really.
 
