@@ -29,10 +29,22 @@ Table of Contents
       * [Responding to being congratulated](#responding-to-being-congratulated)
    * [Correcting yourself](#correcting-yourself)
       * [Correcting yourself](#correcting-yourself-1)
+   * [Dealing with questions](#dealing-with-questions)
+      * [Dealing with questions](#dealing-with-questions-1)
+   * [Disagreeing](#disagreeing)
+      * [Expressing disagreement](#expressing-disagreement)
+   * [Ending conversations](#ending-conversations)
+      * [Ending conversations](#ending-conversations-1)
+   * [Expressing certainty](#expressing-certainty)
+      * [Expressing certainty](#expressing-certainty-1)
+      * [Expressing uncertainty](#expressing-uncertainty)
+   * [Expressing ignorance](#expressing-ignorance)
+      * [Saying you don't know something](#saying-you-dont-know-something)
+      * [Giving yourself time to think](#giving-yourself-time-to-think)
 
 
 
-> 原文链接：https://www.bilibili.com/video/BV1ns41187Zn
+> 视频链接：https://www.bilibili.com/video/BV1ns41187Zn
 
 # Agreeing
 
@@ -321,4 +333,126 @@ A: Oh yeah, I'm the same. So it's second on the right. Thanks!
 * It's one t and double s - **no, sorry,** one s and double t.
 * It's on the fifth floor - **no, actually,** it's the fourth.
 * Can I get two lattes and an espresso - **no, scratch that,** three lattes.
+
+
+
+# Dealing with questions
+
+A: Excuse me, but can I just ask where were going to publicize this?
+B: Well, that's something we probably should look into further. Yes, Jo?
+A: I was wondering if we have a launch date yet?
+B: Can I come back to that point later, when we deal with the project scheduling?
+
+## Dealing with questions
+
+* **There will be time for questions at the end,** if you'd like to save them up till then.
+* If you don't mind, **we'll take all of your questions at the end of the presentation.**
+* **We've set aside the last 15 minutes for questions.**
+* **We're saving the last 10 minutes for questions.**
+* If you have questions, **please feel free to ask** them as we go along.
+* **That's an interesting point. Perhaps I can answer it** like this...
+* **I'm not sure I understand** your question.
+* **If I understand your question correctly,** what you're asking is...
+* **That's something we probably should look into further.**
+* **Does that answer your question?**
+* **I hope that answers your question.**
+* **Can I come back to that point later?**
+
+
+
+# Disagreeing
+
+A: I think we should sell the app at a low cost to maximize sales.
+B: I cant go along with that Idea. If it's cheap, people will think it's poor quality.
+A: I take your point, but people won't pay much for an app these days.
+B: Well, actually, 'm not sure that's true.
+
+## Expressing disagreement
+
+* **I'm sorry, I don't agree.**
+* **I'm sorry, I have to disagree with you there.**
+* **Well, actually, I'm not sure (that) that's true.**
+* **I don't think that is exactly right.**
+* **I wouldn't agree that** that's the best solution.
+* **I have to say that I don't find** that argument very convincing.
+* **I can't go along with that idea.**
+* **I take your point, but** I don't think it would work in practice.
+* **I see your point, but** I don't think it's possible.
+* **Actually, I think** that would make the situation worse.
+* Actually, **I'm not sure** that's the best plan.
+* **I understand where you're coming from, but** I think we might want to take a different approach.
+* **I can see why you might feel that way, but** I think we need to handle this differently.
+
+
+
+# Ending conversations
+
+A: Oh, is that the time? I'd better be off. It's been lovely talking to you.
+
+B: Yes, it was nice to meet you. Maybe see you later?
+
+## Ending conversations
+
+* **It's been lovely talking to you.**
+* **It was so nice to** spend some time together.
+* **I'm so glad we got to talk.**
+* **I'm sorry, I have to rush off.**
+* **It was nice to meet you.** I'm sorry I have to go now.
+* **Will you excuse me?** There's someone I've got to speak to.
+
+
+
+# Expressing certainty
+
+A: Do you know what time it is in New York?
+
+B: I'm not at all sure, to be honest. Why?
+
+A: I'm supposed to phone the New York office.
+
+B: Well, I think it's probably very early morning I doubt they be at work right now.
+
+## Expressing certainty
+
+* **I'm sure** I left my keys on the table.
+* **I'm 100% certain** that's the right answer.
+* **I'm absolutely positive** she said she'd come.
+* **There's no doubt in my mind that** this is the best option.
+* **Without a doubt,** this is where it was.
+* **No question,** I'll be there.
+
+## Expressing uncertainty
+
+* **I'm not (at all) sure** what time they arrive, **to be honest.**
+* **I doubt** he'll arrive on time.
+* **I rather doubt** they'll call back.
+* **I think it's probably** OK.
+
+
+
+# Expressing ignorance
+
+A: Excuse me, is Alice out of the office today?
+
+B: Not to my knowledge, no.
+
+A: Do you know where she is?
+
+B: I have absolutely no idea, I'm afraid.
+
+## Saying you don't know something
+
+* **I really don't know.**
+* **I'm afraid I don't have the faintest idea.**
+* **Sorry, I have absolutely no idea.**
+* Has anyone left a message? **No, not to my knowledge.**
+* Has *Sam* arrived yet? **No. not as far as I know.**
+
+## Giving yourself time to think
+
+* **Well, that's a good question.**
+* **Yes. that's an interesting point.**
+* **Yes, that's an interesting idea.**
+* **Well, let me see...**
+* **Let me think about that for a moment.**
 
