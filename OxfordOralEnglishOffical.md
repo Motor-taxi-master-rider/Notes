@@ -41,6 +41,41 @@ Table of Contents
    * [Expressing ignorance](#expressing-ignorance)
       * [Saying you don't know something](#saying-you-dont-know-something)
       * [Giving yourself time to think](#giving-yourself-time-to-think)
+   * [Expressing likelihood](#expressing-likelihood)
+      * [Saying things are likely](#saying-things-are-likely)
+      * [Saying things are unlikely](#saying-things-are-unlikely)
+   * [Expressing preferences](#expressing-preferences)
+      * [Expressing preferences](#expressing-preferences-1)
+   * [Expressing sympathy](#expressing-sympathy)
+      * [Expressing sympathy](#expressing-sympathy-1)
+   * [Forbidding something](#forbidding-something)
+      * [Forbidding something](#forbidding-something-1)
+   * [Giving orders](#giving-orders)
+      * [Telling somebody to do something](#telling-somebody-to-do-something)
+   * [Giving reasons](#giving-reasons)
+      * [Giving reasons and justifying choices](#giving-reasons-and-justifying-choices)
+   * [Giving somebody advice](#giving-somebody-advice)
+      * [Giving somebody advice](#giving-somebody-advice-1)
+      * [Responding to advice](#responding-to-advice)
+   * [Interrupting somebody](#interrupting-somebody)
+      * [Interrupting somebody](#interrupting-somebody-1)
+   * [Introducing somebody](#introducing-somebody)
+      * [Introducing somebody](#introducing-somebody-1)
+      * [Responding to introductions](#responding-to-introductions)
+   * [Inviting somebody to something](#inviting-somebody-to-something)
+      * [Inviting somebody](#inviting-somebody)
+      * [Accepting an invitation](#accepting-an-invitation)
+      * [Refusing an invitation](#refusing-an-invitation)
+   * [Leaving phone messages](#leaving-phone-messages)
+      * [Leaving phone messages](#leaving-phone-messages-1)
+   * [Making complaints](#making-complaints)
+      * [Making complaints](#making-complaints-1)
+   * [Making recommendations](#making-recommendations)
+      * [Asking for recommendations](#asking-for-recommendations)
+      * [Making recommendations](#making-recommendations-1)
+   * [Making requests](#making-requests)
+      * [Making requests](#making-requests-1)
+      * [Responding to request](#responding-to-request)
 
 
 
@@ -455,4 +490,365 @@ B: I have absolutely no idea, I'm afraid.
 * **Yes, that's an interesting idea.**
 * **Well, let me see...**
 * **Let me think about that for a moment.**
+
+
+
+# Expressing likelihood
+
+A: Are you likely to be in Oxford on the 15th?
+
+B: I'm probably going to be in London on that day.
+
+A: Will you be back by six?
+
+B: That's unlikely - there's bound to be a lot of traffic on the way home.
+
+## Saying things are likely
+
+* **It's pretty much inevitable** that prices will go up this year.
+* **I think it's likely** to rain this afternoon.
+* **I'm probably going to** be away then.
+* **I guess there's a fifty percent chance that** they'll say no.
+* **There's bound to** be a delay.
+* **He's bound to** arrive late.
+
+## Saying things are unlikely
+
+* **She can't really be** serious about leaving!
+* **They can't possibly be** serious about buying a boat!
+* **I wouldn't bet on it.**
+* **That's unlikely, but not totally impossible, I suppose.**
+
+
+
+# Expressing preferences
+
+A: There's a Chinese restaurant next door, or an Italian just across the street.
+
+B: I think I'd prefer the Italian, myself. What about you?
+
+A: I don't really mind either way.
+
+B: OK the Italian then!
+
+## Expressing preferences
+
+* **I like** the red one **better than** the green one.
+* **I like** soul music **more than** jazz.
+* **I prefer** beef to lamb.
+* **I'd prefer** to wait here.
+* **I'd rather** go to the concert than the play.
+* **I think I'd rather** stay in than go out tonight.
+* **I like** swimming **better than** jogging.
+* **I think** that color's much more attractive.
+* **If it were up to me,** I'd choose the green one.
+* **If you ask me,** the old one looks better than the new one.
+* **I'm not an expert,** but *Design B* seems more eye-catching.
+* **It doesn't really matter to me** whether we eat here or go out.
+* **I don't really mind** whether we talk now or later.
+* **I'm happy either way.**
+
+
+
+# Expressing sympathy
+
+A: I'm afraid I'm going to have to miss the conference. My fathers not well.
+
+B: Oh, I'm sorry to hear that.
+
+A: I'm sorry, I know it's a bit short notice.
+
+B: No, please don't worry. Family comes first. 
+
+## Expressing sympathy
+
+* **I'm sorry** you're not well. I hope you feel better soon.
+* **I'm sorry to hear that.**
+* **That's bad luck.**
+* **How awful for you.**
+* **I'm sorry for your loss.** (used when somebody has died)
+
+
+
+# Forbidding something
+
+B: ……..
+
+A: Could I ask you not to talk out here, please? Were doing some recording in this room.
+
+B: Oh, I see. OK, we'll move away, then.
+
+A: Thanks.
+
+## Forbidding something
+
+* **I'm sorry,** smoking **isn't allowed** here.
+* **I'm sorry, you're not allowed to** bring drinks in here.
+* **Would you mind not** talking during the music?
+* **Could I ask you not to** use your phone here, please?
+* **I'm afraid I have to ask you not to** take pictures here.
+
+
+
+# Giving orders
+
+A: Hi. I'm here to see the head of Human Resources.
+
+B: Could you wait here for a moment, I'll just see if shes free.
+
+A: OK.
+
+B: [Your visitor's here] OK, she can see you now. Would you go right in, please?
+
+## Telling somebody to do something
+
+* **Could you wait here** fro a moment, **please?**
+* **Would you** come through now?
+* **You can** come through now.
+* **You can** go straight in.
+* **Just** sign here **for me, please?**
+* **Can you** send it up to my room, **please?**
+* **I need you to** finish the report by Friday.
+* **Everyone has to** use the side entrance this week.
+* **You have to** sign these reports before submitting them.
+
+
+
+# Giving reasons
+
+A: Why don't you get a tablet?
+
+B: Well, first, I use the keyboard a lot, and second, you can't do as much on it.
+
+A: Hmm, maybe. But I like it just because it's so much easier to carry around.
+
+B: Well, it depends on your priorities, I guess.
+
+## Giving reasons and justifying choices
+
+* **There are two main reasons** why I think it's the best option: the cost and quality.
+* **I think** it's a good choice **for a number of reasons, but primarily because** it's cheaper.
+* **I believe** it's the right thing to do **because** it gives everyone a fair chance.
+* **I would choose** the newer one **on the grounds that** it will last longer.
+
+
+
+# Giving somebody advice
+
+A: I still haven't received my contract from Mr. Spencer.
+
+B: Really? That's awful. If I were you, I'd remind him about it. You shouldn't do the work without a signed contract.
+
+A: No, you're right.
+
+B: Yes, I think you should make an appointment to see him as soon as possible.
+
+A: OK I will.
+
+## Giving somebody advice
+
+* **If I were you,** I'd wait.
+* **I think you should** see a doctor.
+* **I think you ought to** have break.
+* **Why don't you** as *Tom* to help?
+* **Why not** try again tomorrow?
+* **Could you maybe** come by train?
+* **If you want my advice,** I'd say it's better to tell him.
+* **If you want to know what I think,** I'd say you should keep trying.
+* **I'd advise you to** sell it now.
+
+## Responding to advice
+
+* **You're right.**
+* **I guess you're right.**
+* **OK, I will.**
+* **OK, I'll do that.**
+* **Do you really think so?**
+
+
+
+# Interrupting somebody
+
+A: If we don't finish everything today, we can work on it next week and supply it the week aft…..
+
+B: Sorry to interrupt, but I don't think we can do that, they're expecting it on Monday.
+
+A: Oh, of course….. well maybe we should get some extra help in that case?
+
+## Interrupting somebody
+
+* **Sorry to interrupt,** but I have to disagree with that.
+* **Could I just say something here?**
+* **If I could, let me stop you there for a moment** and go back to your previous point.
+* **Actually, we seem to have strayed a bit from the topic. Can we go back to** the first point?
+* **Just a moment,** *Sue.* Can we hear what *Jack* has to say on this?
+* **May I interrupt you there?** I don't think that's true.
+* **I'm sorry, but we're running short on time.** Can you please summarize very quickly?
+* **I appreciate your enthusiasm on this topic, but I'm afraid we have a couple more people to hear from.**
+* **Could you two please discuss that issue privately after the meeting? We have several more items to cover and need to move on at this point.**
+* **I'm sorry, I really have to stop you** there. We've run out of time.
+* **Let's save that conversation for another time.**
+
+
+
+# Introducing somebody
+
+A: Hi. I haven't seen you for ages!
+
+B: Oh h, Sarah! This is Simon - don't know if you've met? Simon - this is Sarah.
+
+A: No, don't think we've met Hi Simon.
+
+C: Hi Sarah. Nice to meet you.
+
+## Introducing somebody
+
+* Amy, **do you know** my friend *Simon?*
+* **Have you two met?** Jane - this is *Matt.*
+* **I don't know if you've met?** - Dan, this is *Caroline.*
+* **I don't think you two have met?** - *Claire,* this is *Joseph.*
+* *Ted,* **this is Gwen** - she's *Porter's* mother.
+* **Can I introduce you to** my colleague *Professor Welsh?*
+
+## Responding to introductions
+
+* **No, I don't think we've met. I'm** *Harry.*
+* **Hello. Nice to meet you!**
+* **Hi. I'm** *Norman Miller.*
+
+
+
+# Inviting somebody to something
+
+A: We're organizing a trip to Stratford on Wednesday afternoon. Would you be interested in coming along?
+
+B: I'd love to, but I don't think I could make it any sooner than two o'clock. Is that too late?
+
+A: I'm afraid so, we're all meeting at one.
+
+B: OK. Thanks anyway.
+
+## Inviting somebody
+
+* **Would you like to** come for a meal on Saturday?
+* There's a presentation of our new product at the conference on Tuesday. **Would you be interested in** coming along?
+* I'm going to the game on Saturday - **how about** joining me?
+
+## Accepting an invitation
+
+* **That would be very nice, thank you.**
+* **I'd love to, thanks very much.**
+* **I'd love to, but I'm busy** on Sunday.
+* **Thank you. I'll check** my diary and let you know.
+* **Thank you, I'll check** my calendar and get back to you.
+
+## Refusing an invitation
+
+* **I'm sorry. I've already got something on** at the weekend.
+* **I'm sorry. I already have plans** on Saturday.
+
+
+
+# Leaving phone messages
+
+A: Hello, ABC print here. How can I help you?
+
+B: Yes, can I speak to Adam Talbot, please?
+
+A: I'm afraid he's not in. Can I take a message?
+
+B: Yes, er, can you ask him to call me back, please? It's Jo Walker.
+
+A: OK I'll let him know.
+
+B: Thank you.
+
+## Leaving phone messages
+
+* **Could I speak to** *Jay Black*, **please?**
+* **Can I speak to** the manager, **please?**
+* **Could you give him a message?**
+* **Is there a time that might be good for me try again?**
+* **Can you let him know I'll call back?**
+* **Can you let him know I called?**
+* **Can you ask him to call me back?** My number is ...
+
+
+
+# Making complaints
+
+A: I'd like to speak to the manager, please. I'd like to make a complaint.
+
+B: I'm afraid she's busy all day. Would you like to make an appointment for tomorrow? 
+
+A: I'm sorry, this isn't good enough. I'm only in town today.
+
+B: I'm sorry, but there's really nothing I can do.
+
+## Making complaints
+
+* **I'm afraid I'm not satisfied** with this.
+* **I'm sorry, this isn't acceptable.** We've been waiting half an hour.
+* **I'm sorry, this isn't good enough.** You said it would be ready today.
+* **I'd like to make a complaint.** The laptop I bought doesn't work.
+* **Excuse me - this isn't what I asked for.** I ordered the soup, not the salad.
+* **I'd like to speak to the manager. I've got a complaint** about something I bought.
+
+
+
+# Making recommendations
+
+A: Why don't you visit somewhere in Central Europe?
+
+B: What would you recommend?
+
+A: Well, if you've never been there before, I'd recommend Prague It's great for a long weekend at this time of year.
+
+B: Prague. Yeah, OK, I'll look into that.
+
+## Asking for recommendations
+
+* **What would you recommend?**
+* **What do you recommend?**
+* **What do you think would be best?**
+* **Which of the options do you favor?**
+* **Which of the options do you prefer?**
+
+## Making recommendations
+
+* **I can recommend** the steak today.
+* **My favorite is** the *Corner Café.*
+* **I'd recommend** waiting a few months.
+* **I'd suggest** you visit the museum first.
+* **If it were up to me,** I'd go for the cheaper one.
+* **If it were up to me,** I'd go to Paris.
+* **If it were my decision,** I'd choose the first one.
+* **Why don't you** buy the blue one?
+
+
+
+# Making requests
+
+A: Can I have a glass of water, please?
+
+B: Yes, of course. Sorry, it's not very cold.
+
+A: That's all right. Thank you.
+
+## Making requests
+
+* **Could I have** a glass of water, please?
+* **Can I have** a cheese sandwich, please?
+* **Do you have** any decaffeinated coffee?
+* **I'd like** tea with sugar, please.
+* **I'll have** the pasta with salad, please.
+
+## Responding to request
+
+* **Certainly.**
+* **I'm sorry, we don't have any left.**
+* **Yes, of course.** Here you are.
+* **Yes, of course.** Here you go.
+
+
 
