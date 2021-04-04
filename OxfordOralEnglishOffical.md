@@ -1,81 +1,81 @@
 Table of Contents
 =================
 
-   * [Agreeing](#agreeing)
-      * [Expressing agreement](#expressing-agreement)
-   * [Apologizing](#apologizing)
-      * [Apologizing](#apologizing-1)
-      * [Responding to apologies](#responding-to-apologies)
-   * [Asking about obligations](#asking-about-obligations)
-      * [Asking about obligation](#asking-about-obligation)
-   * [Asking for clarification](#asking-for-clarification)
-      * [Asking for clarification](#asking-for-clarification-1)
-      * [Providing clarification](#providing-clarification)
-   * [Asking for help](#asking-for-help)
-      * [Asking for help](#asking-for-help-1)
-      * [Responding to requests for help](#responding-to-requests-for-help)
-   * [Asking for information](#asking-for-information)
-      * [Asking for information](#asking-for-information-1)
-   * [Asking for opinions](#asking-for-opinions)
-      * [Asking for opinions](#asking-for-opinions-1)
-   * [Asking for permission](#asking-for-permission)
-      * [Asking for permission or favors](#asking-for-permission-or-favors)
-      * [Giving permission](#giving-permission)
-      * [Refusing permission](#refusing-permission)
-   * [Conceding a point](#conceding-a-point)
-      * [Conceding a point](#conceding-a-point-1)
-   * [Congratulating somebody](#congratulating-somebody)
-      * [Congratulating somebody](#congratulating-somebody-1)
-      * [Responding to being congratulated](#responding-to-being-congratulated)
-   * [Correcting yourself](#correcting-yourself)
-      * [Correcting yourself](#correcting-yourself-1)
-   * [Dealing with questions](#dealing-with-questions)
-      * [Dealing with questions](#dealing-with-questions-1)
-   * [Disagreeing](#disagreeing)
-      * [Expressing disagreement](#expressing-disagreement)
-   * [Ending conversations](#ending-conversations)
-      * [Ending conversations](#ending-conversations-1)
-   * [Expressing certainty](#expressing-certainty)
-      * [Expressing certainty](#expressing-certainty-1)
-      * [Expressing uncertainty](#expressing-uncertainty)
-   * [Expressing ignorance](#expressing-ignorance)
-      * [Saying you don't know something](#saying-you-dont-know-something)
-      * [Giving yourself time to think](#giving-yourself-time-to-think)
-   * [Expressing likelihood](#expressing-likelihood)
-      * [Saying things are likely](#saying-things-are-likely)
-      * [Saying things are unlikely](#saying-things-are-unlikely)
-   * [Expressing preferences](#expressing-preferences)
-      * [Expressing preferences](#expressing-preferences-1)
-   * [Expressing sympathy](#expressing-sympathy)
-      * [Expressing sympathy](#expressing-sympathy-1)
-   * [Forbidding something](#forbidding-something)
-      * [Forbidding something](#forbidding-something-1)
-   * [Giving orders](#giving-orders)
-      * [Telling somebody to do something](#telling-somebody-to-do-something)
-   * [Giving reasons](#giving-reasons)
-      * [Giving reasons and justifying choices](#giving-reasons-and-justifying-choices)
-   * [Giving somebody advice](#giving-somebody-advice)
-      * [Giving somebody advice](#giving-somebody-advice-1)
-      * [Responding to advice](#responding-to-advice)
-   * [Interrupting somebody](#interrupting-somebody)
-      * [Interrupting somebody](#interrupting-somebody-1)
-   * [Introducing somebody](#introducing-somebody)
-      * [Introducing somebody](#introducing-somebody-1)
-      * [Responding to introductions](#responding-to-introductions)
-   * [Inviting somebody to something](#inviting-somebody-to-something)
-      * [Inviting somebody](#inviting-somebody)
-      * [Accepting an invitation](#accepting-an-invitation)
-      * [Refusing an invitation](#refusing-an-invitation)
-   * [Leaving phone messages](#leaving-phone-messages)
-      * [Leaving phone messages](#leaving-phone-messages-1)
-   * [Making complaints](#making-complaints)
-      * [Making complaints](#making-complaints-1)
-   * [Making recommendations](#making-recommendations)
-      * [Asking for recommendations](#asking-for-recommendations)
-      * [Making recommendations](#making-recommendations-1)
-   * [Making requests](#making-requests)
-      * [Making requests](#making-requests-1)
-      * [Responding to request](#responding-to-request)
+   1. [Agreeing](#agreeing)
+         * [Expressing agreement](#expressing-agreement)
+   2. [Apologizing](#apologizing)
+         * [Apologizing](#apologizing-1)
+         * [Responding to apologies](#responding-to-apologies)
+   3. [Asking about obligations](#asking-about-obligations)
+         * [Asking about obligation](#asking-about-obligation)
+   4. [Asking for clarification](#asking-for-clarification)
+         * [Asking for clarification](#asking-for-clarification-1)
+         * [Providing clarification](#providing-clarification)
+   5. [Asking for help](#asking-for-help)
+         * [Asking for help](#asking-for-help-1)
+         * [Responding to requests for help](#responding-to-requests-for-help)
+   6. [Asking for information](#asking-for-information)
+         * [Asking for information](#asking-for-information-1)
+ 7. [Asking for opinions](#asking-for-opinions)
+        * [Asking for opinions](#asking-for-opinions-1)
+   8. [Asking for permission](#asking-for-permission)
+         * [Asking for permission or favors](#asking-for-permission-or-favors)
+         * [Giving permission](#giving-permission)
+         * [Refusing permission](#refusing-permission)
+   9. [Conceding a point](#conceding-a-point)
+         * [Conceding a point](#conceding-a-point-1)
+   10. [Congratulating somebody](#congratulating-somebody)
+         * [Congratulating somebody](#congratulating-somebody-1)
+         * [Responding to being congratulated](#responding-to-being-congratulated)
+   11. [Correcting yourself](#correcting-yourself)
+          * [Correcting yourself](#correcting-yourself-1)
+   12. [Dealing with questions](#dealing-with-questions)
+          * [Dealing with questions](#dealing-with-questions-1)
+   13. [Disagreeing](#disagreeing)
+          * [Expressing disagreement](#expressing-disagreement)
+   14. [Ending conversations](#ending-conversations)
+          * [Ending conversations](#ending-conversations-1)
+   15. [Expressing certainty](#expressing-certainty)
+          * [Expressing certainty](#expressing-certainty-1)
+          * [Expressing uncertainty](#expressing-uncertainty)
+   16. [Expressing ignorance](#expressing-ignorance)
+          * [Saying you don't know something](#saying-you-dont-know-something)
+          * [Giving yourself time to think](#giving-yourself-time-to-think)
+   17. [Expressing likelihood](#expressing-likelihood)
+          * [Saying things are likely](#saying-things-are-likely)
+          * [Saying things are unlikely](#saying-things-are-unlikely)
+   18. [Expressing preferences](#expressing-preferences)
+          * [Expressing preferences](#expressing-preferences-1)
+   19. [Expressing sympathy](#expressing-sympathy)
+          * [Expressing sympathy](#expressing-sympathy-1)
+   20. [Forbidding something](#forbidding-something)
+          * [Forbidding something](#forbidding-something-1)
+   21. [Giving orders](#giving-orders)
+          * [Telling somebody to do something](#telling-somebody-to-do-something)
+   22. [Giving reasons](#giving-reasons)
+          * [Giving reasons and justifying choices](#giving-reasons-and-justifying-choices)
+   23. [Giving somebody advice](#giving-somebody-advice)
+          * [Giving somebody advice](#giving-somebody-advice-1)
+          * [Responding to advice](#responding-to-advice)
+   24. [Interrupting somebody](#interrupting-somebody)
+          * [Interrupting somebody](#interrupting-somebody-1)
+   25. [Introducing somebody](#introducing-somebody)
+          * [Introducing somebody](#introducing-somebody-1)
+          * [Responding to introductions](#responding-to-introductions)
+   26. [Inviting somebody to something](#inviting-somebody-to-something)
+          * [Inviting somebody](#inviting-somebody)
+          * [Accepting an invitation](#accepting-an-invitation)
+          * [Refusing an invitation](#refusing-an-invitation)
+   27. [Leaving phone messages](#leaving-phone-messages)
+          * [Leaving phone messages](#leaving-phone-messages-1)
+   28. [Making complaints](#making-complaints)
+          * [Making complaints](#making-complaints-1)
+   29. [Making recommendations](#making-recommendations)
+          * [Asking for recommendations](#asking-for-recommendations)
+          * [Making recommendations](#making-recommendations-1)
+   30. [Making requests](#making-requests)
+          * [Making requests](#making-requests-1)
+          * [Responding to request](#responding-to-request)
 
 
 
@@ -91,7 +91,7 @@ A: I think you're right. Let's put it on the agenda for next week.
 
 B: I'd certainly go along with that idea.
 
-## Expressing agreement
+### Expressing agreement
 
 * **Yes, that's true.**
 * **That's right.**
@@ -119,7 +119,7 @@ A: But you spit some coffee. Can I get you another one?
 
 B: No. it's fine,really.
 
-## Apologizing
+### Apologizing
 
 * **I'm so sorry** I'm late.
 * **I'm terribly sorry** I forgot to tell you.
@@ -130,7 +130,7 @@ B: No. it's fine,really.
 * **We would like to offer you apologies** for the inconvenience.
 * **Please accept our apologies** for not responding sooner.
 
-## Responding to apologies
+### Responding to apologies
 
 * **That's all right.**
 * **That's OK.**
@@ -150,7 +150,7 @@ A: And am I supposed to hand it in to the security desk if I pop out for a coffe
 
 B: No, just hand it in at the end of the day.
 
-## Asking about obligation
+### Asking about obligation
 
 * What time **do we have to** be home?
 * **Are we supposed to** show our ID cards?
@@ -169,7 +169,7 @@ A: I mean is it two in the morning and two in the evening.
 
 B: Ah. see-eh. I'm not sure to be honest.
 
-## Asking for clarification
+### Asking for clarification
 
 * **I'm sorry. I don't quite understand.**
 * **Would you mind explaining that again?** I'm not sure that I've understood correctly.
@@ -185,7 +185,7 @@ B: Ah. see-eh. I'm not sure to be honest.
 * **Sorry, did you mean that** I should wait here or come back later?
 * **Can you just confirm** you date of birth for me, please?
 
-## Providing clarification
+### Providing clarification
 
 * **I mean** it is too late to change the deadline.
 * **What I mean is** you need to press both keys at the same time.
@@ -202,7 +202,7 @@ A: Just here, I think. Do you know how to use this?
 
 B: Yes think so.
 
-## Asking for help
+### Asking for help
 
 * **Could you possibly** help me?
 * **I wonder if you could possibly** give me a hand?
@@ -210,7 +210,7 @@ B: Yes think so.
 * **I wonder if you'd mind** helping me with this bag?
 * **Could I ask you to** keep an eye on my luggage for a moment?
 
-## Responding to requests for help
+### Responding to requests for help
 
 * **Yes, of course.**
 * **Sure, of course.**
@@ -226,7 +226,7 @@ B: Artists materials? I really don't know. Theres a stationers in the High Stree
 
 A: OK thanks.
 
-## Asking for information
+### Asking for information
 
 * **Could you tell me** the best way to get to *Paddington station*, please?
 * **Do you happen to know** whether *Amy Brown* works here?
@@ -235,7 +235,7 @@ A: OK thanks.
 
 
 
-# Asking for opinions
+## Asking for opinions
 
 A: I've got to go soon. I'm picking up Claire from the airport.
 
@@ -247,7 +247,7 @@ B: I guess so. What do you think about those new high-speed trains?
 
 A: They're great, but they're terribly expensive.
 
-## Asking for opinions
+### Asking for opinions
 
 * I would say it's OK in the city, but not in the country. **What do you think?**
 * **What do you think about** the latest proposals?
@@ -273,7 +273,7 @@ A: Thanks. And would it be OK to print something out? Just a page or two.
 
 B: Yes, that's fine. It's only black and white I'm afraid! 
 
-## Asking for permission or favors
+### Asking for permission or favors
 
 * **Would you mind if** I opened the window?
 * **Could I possibly** borrow your phone?
@@ -283,13 +283,13 @@ B: Yes, that's fine. It's only black and white I'm afraid!
 * **Is there any chance that we could** stay at your house the night before our flight?
 * **Would it be OK to** leave my bag here?
 
-## Giving permission
+### Giving permission
 
 * **Yes, of course.**
 * **Go ahead.**
 * **That's fine.**
 
-## Refusing permission
+### Refusing permission
 
 * **I'd rather you didn't, if you don't mind.**
 * **I'd prefer it** if you asked somebody else.
@@ -305,7 +305,7 @@ B: Yes, but these clients are sponsored. They aren't paying for themselves.
 
 A: Oh, I see what you mean. I hadn't really appreciated that before.
 
-## Conceding a point
+### Conceding a point
 
 * **Yes, I suppose you're right.**
 * **Yes, I guess you're right.**
@@ -335,7 +335,7 @@ A: When will you start in the new position?
 
 B: At the end of May, when Tony retires.
 
-## Congratulating somebody
+### Congratulating somebody
 
 * **Congratulations one** your engagement! I hope you'll be very happy.
 * **Well done for** passing your driving test.
@@ -343,7 +343,7 @@ B: At the end of May, when Tony retires.
 * I hear you did very well in your exams - **congratulations!**
 * Jo tells me you're getting married - **congratulations!**
 
-## Responding to being congratulated
+### Responding to being congratulated
 
 * **Thank you very much.**
 * **Thanks!**
@@ -358,7 +358,7 @@ B: Yes, go straight on and it's the first-or rather, the second on the…left-no
 
 A: Oh yeah, I'm the same. So it's second on the right. Thanks!
 
-## Correcting yourself
+### Correcting yourself
 
 * I'll be there at five fifteen, **I mean** five fifty - ten to six.
 * It'll be Tuesday - **sorry, I meant to say** Thursday.
@@ -378,7 +378,7 @@ B: Well, that's something we probably should look into further. Yes, Jo?
 A: I was wondering if we have a launch date yet?
 B: Can I come back to that point later, when we deal with the project scheduling?
 
-## Dealing with questions
+### Dealing with questions
 
 * **There will be time for questions at the end,** if you'd like to save them up till then.
 * If you don't mind, **we'll take all of your questions at the end of the presentation.**
@@ -402,7 +402,7 @@ B: I cant go along with that Idea. If it's cheap, people will think it's poor qu
 A: I take your point, but people won't pay much for an app these days.
 B: Well, actually, 'm not sure that's true.
 
-## Expressing disagreement
+### Expressing disagreement
 
 * **I'm sorry, I don't agree.**
 * **I'm sorry, I have to disagree with you there.**
@@ -426,7 +426,7 @@ A: Oh, is that the time? I'd better be off. It's been lovely talking to you.
 
 B: Yes, it was nice to meet you. Maybe see you later?
 
-## Ending conversations
+### Ending conversations
 
 * **It's been lovely talking to you.**
 * **It was so nice to** spend some time together.
@@ -447,7 +447,7 @@ A: I'm supposed to phone the New York office.
 
 B: Well, I think it's probably very early morning I doubt they be at work right now.
 
-## Expressing certainty
+### Expressing certainty
 
 * **I'm sure** I left my keys on the table.
 * **I'm 100% certain** that's the right answer.
@@ -456,7 +456,7 @@ B: Well, I think it's probably very early morning I doubt they be at work right 
 * **Without a doubt,** this is where it was.
 * **No question,** I'll be there.
 
-## Expressing uncertainty
+### Expressing uncertainty
 
 * **I'm not (at all) sure** what time they arrive, **to be honest.**
 * **I doubt** he'll arrive on time.
@@ -475,7 +475,7 @@ A: Do you know where she is?
 
 B: I have absolutely no idea, I'm afraid.
 
-## Saying you don't know something
+### Saying you don't know something
 
 * **I really don't know.**
 * **I'm afraid I don't have the faintest idea.**
@@ -483,7 +483,7 @@ B: I have absolutely no idea, I'm afraid.
 * Has anyone left a message? **No, not to my knowledge.**
 * Has *Sam* arrived yet? **No. not as far as I know.**
 
-## Giving yourself time to think
+### Giving yourself time to think
 
 * **Well, that's a good question.**
 * **Yes. that's an interesting point.**
@@ -503,7 +503,7 @@ A: Will you be back by six?
 
 B: That's unlikely - there's bound to be a lot of traffic on the way home.
 
-## Saying things are likely
+### Saying things are likely
 
 * **It's pretty much inevitable** that prices will go up this year.
 * **I think it's likely** to rain this afternoon.
@@ -512,7 +512,7 @@ B: That's unlikely - there's bound to be a lot of traffic on the way home.
 * **There's bound to** be a delay.
 * **He's bound to** arrive late.
 
-## Saying things are unlikely
+### Saying things are unlikely
 
 * **She can't really be** serious about leaving!
 * **They can't possibly be** serious about buying a boat!
@@ -531,7 +531,7 @@ A: I don't really mind either way.
 
 B: OK the Italian then!
 
-## Expressing preferences
+### Expressing preferences
 
 * **I like** the red one **better than** the green one.
 * **I like** soul music **more than** jazz.
@@ -560,7 +560,7 @@ A: I'm sorry, I know it's a bit short notice.
 
 B: No, please don't worry. Family comes first. 
 
-## Expressing sympathy
+### Expressing sympathy
 
 * **I'm sorry** you're not well. I hope you feel better soon.
 * **I'm sorry to hear that.**
@@ -580,7 +580,7 @@ B: Oh, I see. OK, we'll move away, then.
 
 A: Thanks.
 
-## Forbidding something
+### Forbidding something
 
 * **I'm sorry,** smoking **isn't allowed** here.
 * **I'm sorry, you're not allowed to** bring drinks in here.
@@ -600,7 +600,7 @@ A: OK.
 
 B: [Your visitor's here] OK, she can see you now. Would you go right in, please?
 
-## Telling somebody to do something
+### Telling somebody to do something
 
 * **Could you wait here** fro a moment, **please?**
 * **Would you** come through now?
@@ -624,7 +624,7 @@ A: Hmm, maybe. But I like it just because it's so much easier to carry around.
 
 B: Well, it depends on your priorities, I guess.
 
-## Giving reasons and justifying choices
+### Giving reasons and justifying choices
 
 * **There are two main reasons** why I think it's the best option: the cost and quality.
 * **I think** it's a good choice **for a number of reasons, but primarily because** it's cheaper.
@@ -645,7 +645,7 @@ B: Yes, I think you should make an appointment to see him as soon as possible.
 
 A: OK I will.
 
-## Giving somebody advice
+### Giving somebody advice
 
 * **If I were you,** I'd wait.
 * **I think you should** see a doctor.
@@ -657,7 +657,7 @@ A: OK I will.
 * **If you want to know what I think,** I'd say you should keep trying.
 * **I'd advise you to** sell it now.
 
-## Responding to advice
+### Responding to advice
 
 * **You're right.**
 * **I guess you're right.**
@@ -675,7 +675,7 @@ B: Sorry to interrupt, but I don't think we can do that, they're expecting it on
 
 A: Oh, of course….. well maybe we should get some extra help in that case?
 
-## Interrupting somebody
+### Interrupting somebody
 
 * **Sorry to interrupt,** but I have to disagree with that.
 * **Could I just say something here?**
@@ -701,7 +701,7 @@ A: No, don't think we've met Hi Simon.
 
 C: Hi Sarah. Nice to meet you.
 
-## Introducing somebody
+### Introducing somebody
 
 * Amy, **do you know** my friend *Simon?*
 * **Have you two met?** Jane - this is *Matt.*
@@ -710,7 +710,7 @@ C: Hi Sarah. Nice to meet you.
 * *Ted,* **this is Gwen** - she's *Porter's* mother.
 * **Can I introduce you to** my colleague *Professor Welsh?*
 
-## Responding to introductions
+### Responding to introductions
 
 * **No, I don't think we've met. I'm** *Harry.*
 * **Hello. Nice to meet you!**
@@ -728,13 +728,13 @@ A: I'm afraid so, we're all meeting at one.
 
 B: OK. Thanks anyway.
 
-## Inviting somebody
+### Inviting somebody
 
 * **Would you like to** come for a meal on Saturday?
 * There's a presentation of our new product at the conference on Tuesday. **Would you be interested in** coming along?
 * I'm going to the game on Saturday - **how about** joining me?
 
-## Accepting an invitation
+### Accepting an invitation
 
 * **That would be very nice, thank you.**
 * **I'd love to, thanks very much.**
@@ -742,7 +742,7 @@ B: OK. Thanks anyway.
 * **Thank you. I'll check** my diary and let you know.
 * **Thank you, I'll check** my calendar and get back to you.
 
-## Refusing an invitation
+### Refusing an invitation
 
 * **I'm sorry. I've already got something on** at the weekend.
 * **I'm sorry. I already have plans** on Saturday.
@@ -763,7 +763,7 @@ A: OK I'll let him know.
 
 B: Thank you.
 
-## Leaving phone messages
+### Leaving phone messages
 
 * **Could I speak to** *Jay Black*, **please?**
 * **Can I speak to** the manager, **please?**
@@ -785,7 +785,7 @@ A: I'm sorry, this isn't good enough. I'm only in town today.
 
 B: I'm sorry, but there's really nothing I can do.
 
-## Making complaints
+### Making complaints
 
 * **I'm afraid I'm not satisfied** with this.
 * **I'm sorry, this isn't acceptable.** We've been waiting half an hour.
@@ -806,7 +806,7 @@ A: Well, if you've never been there before, I'd recommend Prague It's great for 
 
 B: Prague. Yeah, OK, I'll look into that.
 
-## Asking for recommendations
+### Asking for recommendations
 
 * **What would you recommend?**
 * **What do you recommend?**
@@ -814,7 +814,7 @@ B: Prague. Yeah, OK, I'll look into that.
 * **Which of the options do you favor?**
 * **Which of the options do you prefer?**
 
-## Making recommendations
+### Making recommendations
 
 * **I can recommend** the steak today.
 * **My favorite is** the *Corner Café.*
@@ -835,7 +835,7 @@ B: Yes, of course. Sorry, it's not very cold.
 
 A: That's all right. Thank you.
 
-## Making requests
+### Making requests
 
 * **Could I have** a glass of water, please?
 * **Can I have** a cheese sandwich, please?
@@ -843,7 +843,7 @@ A: That's all right. Thank you.
 * **I'd like** tea with sugar, please.
 * **I'll have** the pasta with salad, please.
 
-## Responding to request
+### Responding to request
 
 * **Certainly.**
 * **I'm sorry, we don't have any left.**
